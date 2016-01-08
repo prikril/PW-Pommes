@@ -1,0 +1,7 @@
+Aufgabe Pommesbude
+
+Kunde bestellt und bezahlt eine Bestellung und gibt diese an die Bedienung.
+Die Getränke bearbeitet die Bedienung.
+Das bestellte Essen wird an den Koch weitergegeben.
+Das Koch gibt gekochtes Essen an die Bedienung.
+Die Bedienung bringt dem Kunden Getränke und Essen.
